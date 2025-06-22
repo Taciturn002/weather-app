@@ -55,7 +55,7 @@ js
 Copy
 Edit
 const url = `https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=${searchCity}`;
-
+```
 📂 Folder Structure
 css
 Copy
