@@ -35,7 +35,7 @@ A sleek and responsive React-based Weather App that fetches real-time weather da
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Taciturn002/weather-app.git
 cd weather-app
 
 ### 2. Install dependencies
